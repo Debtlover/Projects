@@ -1,2 +1,2 @@
-# YandexProjects
-Praktikum projects
+# Projects
+projects
